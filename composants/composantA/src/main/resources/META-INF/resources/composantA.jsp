@@ -1,0 +1,1 @@
+<p>composantA</p>
