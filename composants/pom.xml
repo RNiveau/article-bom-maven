@@ -5,9 +5,19 @@
     <parent>
         <groupId>fr.xebia.blog</groupId>
         <artifactId>config</artifactId>
-        <version>1.0-SNAPSHOT</version>
+        <version>1.1-SNAPSHOT</version>
     </parent>
-
+    <repositories>
+        <repository>
+            <id>my.mvn.repo</id>
+            <url>https://github.com/RNiveau/git-mvn-repo/master</url>
+            <!-- use snapshot version -->
+            <snapshots>
+                <enabled>true</enabled>
+                <updatePolicy>always</updatePolicy>
+            </snapshots>
+        </repository>
+    </repositories>
 
     <artifactId>reactor</artifactId>
     <version>1.0-SNAPSHOT</version>
