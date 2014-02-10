@@ -9,7 +9,7 @@
 
     <groupId>fr.xebia.blog</groupId>
     <artifactId>bom-composant</artifactId>
-    <version>1.4-SNAPSHOT</version>
+    <version>1.4</version>
     <packaging>pom</packaging>
 
     <name>${project.artifactId}</name>
@@ -20,12 +20,12 @@
             <dependency>
                 <groupId>fr.xebia.blog</groupId>
                 <artifactId>composantA</artifactId>
-                <version>1.4-SNAPSHOT</version>
+                <version>1.4</version>
             </dependency>
             <dependency>
                 <groupId>fr.xebia.blog</groupId>
                 <artifactId>composantB</artifactId>
-                <version>1.4-SNAPSHOT</version>
+                <version>1.4</version>
             </dependency>
             <dependency>
                 <groupId>fr.xebia.blog</groupId>
@@ -59,4 +59,8 @@
             </plugin>
         </plugins>
     </build>
+
+  <scm>
+    <tag>reactor-1.4</tag>
+  </scm>
 </project>

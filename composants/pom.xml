@@ -21,11 +21,11 @@
 
     <scm>
         <connection>scm:git:https://github.com/RNiveau/article-bom-maven/</connection>
-    <tag>HEAD</tag>
+    <tag>reactor-1.4</tag>
   </scm>
 
     <artifactId>reactor</artifactId>
-    <version>1.4-SNAPSHOT</version>
+    <version>1.4</version>
     <packaging>pom</packaging>
 
     <name>${project.artifactId}</name>
