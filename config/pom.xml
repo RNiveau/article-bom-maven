@@ -28,7 +28,7 @@
     <repositories>
         <repository>
             <id>my.mvn.repo</id>
-            <url>https://github.com/RNiveau/git-mvn-repo/master</url>
+            <url>https://raw.github.com/RNiveau/git-mvn-repo/master</url>
             <!-- use snapshot version -->
             <snapshots>
                 <enabled>true</enabled>
