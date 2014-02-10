@@ -20,7 +20,7 @@
     </repositories>
 
     <scm>
-        <connection>scm:git:https://github.com/RNiveau/article-bom-maven/composants/</connection>
+        <connection>scm:git:https://github.com/RNiveau/article-bom-maven/</connection>
   </scm>
 
     <artifactId>reactor</artifactId>
