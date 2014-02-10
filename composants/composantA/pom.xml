@@ -8,7 +8,7 @@
     </parent>
 
     <artifactId>composantA</artifactId>
-    <version>1.0</version>
+    <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
     <name>${project.artifactId}</name>
@@ -25,7 +25,4 @@
         </repository>
     </repositories>
 
-  <scm>
-    <tag>reactor-1.0</tag>
-  </scm>
 </project>
