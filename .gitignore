@@ -4,3 +4,5 @@ composants/composantA/target/*
 composants/composantB/target/*
 composants/composantC/target/*
 webapp/target/*
+composants/target
+config/target
