@@ -50,15 +50,4 @@
         </profile>
     </profiles>
 
-    <build>
-        <plugins>
-            <plugin>
-                <groupId>org.apache.maven.plugins</groupId>
-                <artifactId>maven-release-plugin</artifactId>
-                <configuration>
-                    <updateDependencies>false</updateDependencies>
-                </configuration>
-            </plugin>
-        </plugins>
-    </build>
 </project>
