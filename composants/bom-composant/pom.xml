@@ -9,7 +9,7 @@
 
     <groupId>fr.xebia.blog</groupId>
     <artifactId>bom-composant</artifactId>
-    <version>1.8-SNAPSHOT</version>
+    <version>1.8</version>
     <packaging>pom</packaging>
 
     <name>${project.artifactId}</name>
@@ -25,7 +25,7 @@
             <dependency>
                 <groupId>fr.xebia.blog</groupId>
                 <artifactId>composantB</artifactId>
-                <version>1.6-SNAPSHOT</version>
+                <version>1.6</version>
             </dependency>
             <dependency>
                 <groupId>fr.xebia.blog</groupId>
@@ -47,4 +47,8 @@
         </repository>
     </repositories>
 
+
+  <scm>
+    <tag>reactor-1.8</tag>
+  </scm>
 </project>
