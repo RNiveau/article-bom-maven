@@ -25,7 +25,7 @@
             <dependency>
                 <groupId>fr.xebia.blog</groupId>
                 <artifactId>composantB</artifactId>
-                <version>1.4</version>
+                <version>1.5-SNAPSHOT</version>
             </dependency>
             <dependency>
                 <groupId>fr.xebia.blog</groupId>
